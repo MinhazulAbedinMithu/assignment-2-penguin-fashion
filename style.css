@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: Roboto;
+}
+ul{
+    list-style: none;
+}
+.button{
+    background-color: #85A019;
+    color:#FFF;
+}
+.heading{
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 48px;
+    text-transform: uppercase;
+}
+.price{
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FABE4C;
+}
+.navbar-brand img{
+    width: 250px;
+}
+#banner, #navbar{
+    background-color: #FFFBF0;
+}
+.banner-content h1{
+    color:#EC9F0E;
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 80px;
+    text-transform: uppercase;
+}
+.banner-content span{
+    color:#363958;
+    display: block;
+}
+.banner-img img{
+    height: 400px;
+    width: 400px;
+    padding: 20px 0;
+}
+.card-img{
+    background-color: rgb(233, 233, 233);
+    border-radius: 10px;
+    margin: 10px auto;
+    padding: 10px 0;
+}
+.card-img img{
+    width: 250px;
+    height: 273px;
+}
+.jacket-card .card-body{
+    background-color: white;
+}
+.jacket-card{
+    padding: 0 10px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+.jacket-card .card-body h5{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #363958;
+}
+.rating{
+    display: flex;
+    margin: 0 auto;
+    padding: 0
+}
+.rating li i{
+    color:#EC9F0E;
+}
